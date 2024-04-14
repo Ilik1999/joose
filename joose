@@ -1,0 +1,4 @@
+version: 1.0.0
+codeOwners:
+  - '0x0d10F6f71C7a49dd5Bb7fa6cFA75A3D68852fC7B'
+quorum: 1
